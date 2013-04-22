@@ -4,6 +4,7 @@
 	<comment></comment>
 	<projects>
 		<project>RaspberryBcm2835</project>
+		<project>RaspberryMemory</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
